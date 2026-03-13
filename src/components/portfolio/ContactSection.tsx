@@ -5,26 +5,26 @@ const contacts = [
   {
     icon: Send,
     label: "Telegram",
-    value: "@yourusername",
-    href: "https://t.me/yourusername",
+    value: "@ogxsdag_ehibxqs",
+    href: "https://t.me/ogxsdag_ehibxqs",
   },
   {
     icon: Mail,
     label: "Email",
-    value: "your@email.com",
-    href: "mailto:your@email.com",
+    value: "abdullaevbatyr416@gmail.com",
+    href: "mailto:abdullaevbatyr416@gmail.com",
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/you",
-    href: "https://github.com/you",
+    value: "github.com/Onepunchman-Frg",
+    href: "https://github.com/Onepunchman-Frg",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/you",
-    href: "https://linkedin.com/in/you",
+    value: "linkedin.com/in/батырхан-абдуллаев-19b7b437a",
+    href: "https://linkedin.com/in/батырхан-абдуллаев-19b7b437a",
   },
 ];
 

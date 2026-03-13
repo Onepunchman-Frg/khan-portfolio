@@ -18,7 +18,7 @@ const HeroSection = () => {
             Frontend / Layout Developer
           </p>
           <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6">
-            Hi, I'm <span className="text-primary">Your Name</span>
+            Hi, I'm <span className="text-primary">Batirkhan</span>
           </h1>
           <p className="text-lg text-muted-foreground leading-relaxed mb-8 max-w-lg">
             I build pixel-perfect, responsive interfaces that look great on
@@ -40,7 +40,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="w-64 h-64 sm:w-72 sm:h-72 lg:w-80 lg:h-80 rounded-2xl bg-accent overflow-hidden border-2 border-border shadow-lg">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                src="/0001.jpg"
                 alt="Professional photo"
                 className="w-full h-full object-cover"
                 loading="eager"
