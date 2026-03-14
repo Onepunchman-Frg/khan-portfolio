@@ -64,7 +64,7 @@ export const projects: Project[] = [
     description: "In development.",
     role: "Frontend Layout Developer",
     image: "/placeholder.svg",
-    liveUrl: "https://github.com/Onepunchman-Frg/family-tree",
+    liveUrl: "https://family-tree-two-jet.vercel.app/people",
     tags: ["React", "Tailwind CSS", "NextJS", "Responsive"],
   },
 ];
