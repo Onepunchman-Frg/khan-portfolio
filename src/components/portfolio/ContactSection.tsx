@@ -23,8 +23,8 @@ const contacts = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/батырхан-абдуллаев-19b7b437a",
-    href: "https://linkedin.com/in/батырхан-абдуллаев-19b7b437a",
+    value: "linkedin.com/in/batirxan",
+    href: "https://linkedin.com/in/batirxan",
   },
 ];
 
