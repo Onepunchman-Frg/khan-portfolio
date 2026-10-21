@@ -40,6 +40,16 @@ export const projects: Project[] = [
     tags: ["HTML", "CSS", "JavaScript", "Responsive"],
   },
   {
+    id: "project-7",
+    title: "Website template for the visually impaired",
+    description:
+      "Templates have been developed in accordance with semantic markup standards, incorporating ARIA attributes, keyboard navigation, and WCAG-compliant contrast.",
+    role: "Layout Developer",
+    image: "/site7.png",
+    liveUrl: "https://special-visual-2.oml.ru/",
+    tags: ["HTML", "CSS", "JavaScript", "Responsive"],
+  },
+  {
     id: "project-4",
     title: "Website application for internal use within the order pickup point",
     description:
